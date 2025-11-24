@@ -6,7 +6,7 @@ My name is Peter, someone who is aiming to start a promisiing Career with the IT
 
 Since January 2025 I have been relearning coding languages using the Code Signal Website. I modules I have completed and working on are:
 
-Currently solved 2 / 3757 LeetCode Problems (Starting with Easy)
+Currently solved 3 / 3757 LeetCode Problems (Starting with Easy)
 
 ✅ C++ Programming for Beginners
 
