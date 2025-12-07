@@ -19,3 +19,5 @@ Since January 2025 I have been relearning coding languages using the Code Signal
 Currently Working on:
 
 ❌ Advanced Coding Interview Preparation with Java
+
+❌ Intro to Data Analysis with Python
