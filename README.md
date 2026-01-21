@@ -16,8 +16,10 @@ Since January 2025 I have been relearning coding languages using the Code Signal
 
 ✅ JavaScript Programming for Beginners
 
+✅ Intro to Data Analysis with Python
+
 Currently Working on:
 
 ❌ Advanced Coding Interview Preparation with Java
 
-❌ Intro to Data Analysis with Python
+❌ Mastering Algorithms and Data Structures in Python
