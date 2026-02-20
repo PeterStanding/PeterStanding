@@ -4,7 +4,7 @@ My name is Peter, someone who is aiming to start a promising Career with the IT 
 
 🎓 2021 Graduate from University of Portsmouth achieving a MEng Computer Science Degree
 
-Currently solved 26 / 3778 LeetCode Problems (Starting with Easy)
+Currently solved 35 / 3778 LeetCode Problems (Starting with Easy)
 
 Since January 2025 I have been relearning coding languages using the Code Signal Website. The modules I have completed and working on are:
 
