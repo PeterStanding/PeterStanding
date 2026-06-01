@@ -8,7 +8,7 @@ Currently solved 49 / 3778 LeetCode Problems (Starting with Easy)
 
 Since January 2025 I have been relearning coding languages using the Code Signal Website. The modules I have completed and working on are:
 
-✅ C++ Programming for Beginners
+✅ C++ Programming for Beginners                          ✅ Building a Chatbot with Flask and OpenAI
 
 ✅ Java Programming for Beginners
 
@@ -20,9 +20,9 @@ Since January 2025 I have been relearning coding languages using the Code Signal
 
 ✅ Mastering Algorithms and Data Structures in Python
 
+
 Currently Working on:
 
 ❌ Advanced Coding Interview Preparation with Java
 
-❌ Building a Chatbot with Flask and OpenAI
 
